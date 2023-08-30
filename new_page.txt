@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>shaylet's cafe</title>
+   <meta charset="UTF-8">
+</head>
+
+<body>
+   <h1>highschool jurnery</h1>
+   <p> My travelling experiance to kenya was the best thing ever beacuse i got to view different parts of the continent and experience being inside a plane for the first time i got to learn alot about the country i was visiting and learn about its history</p>
+</body>
+</html>
